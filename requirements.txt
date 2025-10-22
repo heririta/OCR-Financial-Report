@@ -1,0 +1,10 @@
+streamlit==1.39.0
+mistralai==1.0.0
+python-dotenv==1.0.0
+pathlib
+tempfile
+base64
+json
+time
+datetime
+typing
